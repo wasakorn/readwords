@@ -1,0 +1,9 @@
+{
+	"author": "Wasakorn Pakdeesan",
+	"name": "readwords",
+	"version": "0.0.1",
+	"main": "readwords",
+	"dependencies": {
+		"censorify": "file:../censorify/censorify-0.1.1.tgz"
+	}
+}
